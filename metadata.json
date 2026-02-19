@@ -1,0 +1,5 @@
+{
+  "name": "SchematicFlow: NL to Electrical Engine",
+  "description": "An AI-powered natural language to electrical schematic generator for engineers. Converts text descriptions into professional-grade diagrams with continuity logic and BOM generation.",
+  "requestFramePermissions": []
+}
